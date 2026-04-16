@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+inventory/
+venv/
+
+# Mac
+.DS_Store
+
+# Models / cache
+*.pt
+*.bin
+
+# Streamlit
+.streamlit/
+
+# Data
+*.csv
